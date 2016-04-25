@@ -1,0 +1,14 @@
+c:\users\luis-\onedrive\documentos\visual studio 2015\Projects\MySqlComMigration\MySqlComMigration\bin\MySqlComMigration.dll.config
+c:\users\luis-\onedrive\documentos\visual studio 2015\Projects\MySqlComMigration\MySqlComMigration\bin\MySqlComMigration.dll
+c:\users\luis-\onedrive\documentos\visual studio 2015\Projects\MySqlComMigration\MySqlComMigration\bin\MySqlComMigration.pdb
+c:\users\luis-\onedrive\documentos\visual studio 2015\Projects\MySqlComMigration\MySqlComMigration\bin\EntityFramework.dll
+c:\users\luis-\onedrive\documentos\visual studio 2015\Projects\MySqlComMigration\MySqlComMigration\bin\EntityFramework.SqlServer.dll
+c:\users\luis-\onedrive\documentos\visual studio 2015\Projects\MySqlComMigration\MySqlComMigration\bin\MySql.Data.dll
+c:\users\luis-\onedrive\documentos\visual studio 2015\Projects\MySqlComMigration\MySqlComMigration\bin\MySql.Data.Entity.EF6.dll
+c:\users\luis-\onedrive\documentos\visual studio 2015\Projects\MySqlComMigration\MySqlComMigration\bin\EntityFramework.xml
+c:\users\luis-\onedrive\documentos\visual studio 2015\Projects\MySqlComMigration\MySqlComMigration\bin\EntityFramework.SqlServer.xml
+c:\users\luis-\onedrive\documentos\visual studio 2015\Projects\MySqlComMigration\MySqlComMigration\obj\Debug\MySqlComMigration.csprojResolveAssemblyReference.cache
+c:\users\luis-\onedrive\documentos\visual studio 2015\Projects\MySqlComMigration\MySqlComMigration\obj\Debug\MySqlComMigration.dll
+c:\users\luis-\onedrive\documentos\visual studio 2015\Projects\MySqlComMigration\MySqlComMigration\obj\Debug\MySqlComMigration.pdb
+c:\users\luis-\onedrive\documentos\visual studio 2015\Projects\MySqlComMigration\MySqlComMigration\obj\Debug\MySqlComMigration.Migrations.InitialMigration.resources
+c:\users\luis-\onedrive\documentos\visual studio 2015\Projects\MySqlComMigration\MySqlComMigration\obj\Debug\MySqlComMigration.csproj.GenerateResource.Cache
